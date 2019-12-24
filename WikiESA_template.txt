@@ -1,3 +1,5 @@
+<!-- This is a comment -->
+
 {{Speciesbox
 |image=NAME_OF_SPECIES_PICTURE_FILE_IN_WIKIMEDIA_COMMONS.JPG
 |image_caption=LOCATION OR OTHER NOTE
