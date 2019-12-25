@@ -1,5 +1,7 @@
-<!-- This is a comment -->
+<!-- Below you will find a basic template for writing articles about ESA-listed
+species.  Text in ALL CAPS must be deleted or replaced. -->
 
+<!-- We want to ensure every species page has the standard Wikipedia speciesbox. Trickiest part may be photos of species.-->
 {{Speciesbox
 |image=NAME_OF_SPECIES_PICTURE_FILE_IN_WIKIMEDIA_COMMONS.JPG
 |image_caption=LOCATION OR OTHER NOTE
@@ -10,10 +12,11 @@
 |range_map_caption=Range of ''SCIENTIFIC NAME''<ref name="REFERENCE_NAME"/>
 }}
 
+<!-- The intro should be concise but informative and draw a reader in. -->
 '''''SCIENTIFIC NAME''''', commonly known as '''COMMON NAME''' or '''ALT COMMON NAME''', is a DESCRIBE IN GENERAL TERMS, E.G., `A FLOWERING PLANT FOUND IN GEOGRAPHIC AREA`
 
 ==Description==
-''SCIENTIFIC NAME'' is a DESCRIPTION IN BASIC TERMS
+''SCIENTIFIC NAME'' is a PHYSICAL DESCRIPTION, GIVEN IN BASIC TERMS
 
 ==Taxonomy==
 DESCRIPTION OF THE SPECIES' TAXONOMY
